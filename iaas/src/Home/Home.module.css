@@ -1,0 +1,50 @@
+.title{
+    color:#003796;
+    font-family:'Nunito';
+    font-size:35px;
+    margin-top:-70px;
+    margin-left: 7%;
+}
+
+.text{
+    color:#274F6E;
+    font-family: 'Open Sans';
+}
+
+.sub1{
+    color:#274F6E;
+    font-family:'Nunito';
+    text-align: center;
+    font-weight: 800;
+    font-size: 30px;
+    margin-top:4%;
+}
+
+.sub1text{
+    color:#274F6Ebf;
+    font-family:'Open Sans';
+    font-size:20px;
+}
+
+.sub2{
+    font-family:"Nunito";
+    color:#474B64;
+    font-size:34px;
+    margin-left:7%;
+    margin-top:3%;
+
+}
+
+.sub2text{
+    color:#576F92;
+    font-family:'Open Sans';
+    font-size:20px;
+}
+
+.sub3{
+    color:#576F92;
+    font-family:'Nunito';
+    margin-left:7%;
+    font-size:26px;
+    margin-top:4%;
+}
